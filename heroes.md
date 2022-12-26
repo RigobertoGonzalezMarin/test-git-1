@@ -1,7 +1,7 @@
 # Heroes
 
-* Batman
 
+* Aquaman
 * Mujer Maravilla
 
 * Robin
