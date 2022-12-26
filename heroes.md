@@ -6,5 +6,4 @@
 
 * Robin
 * Volcán Negro
-* Flash
-* Reiben
+* Robin
