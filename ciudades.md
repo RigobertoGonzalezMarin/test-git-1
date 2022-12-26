@@ -5,4 +5,4 @@
 3. Hell's Kitchen
 4. Se agregó algo nuevo
 5. Nuevo cambio en el valor
-6. 
+6. Nuevo Laredo.
