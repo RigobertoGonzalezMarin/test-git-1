@@ -5,3 +5,4 @@
 * Volcán Negro
 * Robin
 * Spiderman
+* Aquaman
